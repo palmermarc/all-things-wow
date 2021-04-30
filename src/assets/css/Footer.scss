@@ -1,0 +1,18 @@
+footer{
+	background-color: #222222;
+	padding: 1em 0;
+	.wrap {
+		color: #fff;
+		text-align: center;
+	}
+	#footer-logo {
+		img {
+			width: 250px;
+			margin: 0 auto;
+		}
+	}
+	.copyright {
+		color: #fff;
+		margin-top: 1em;
+	}
+}

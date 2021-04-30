@@ -1,0 +1,26 @@
+header {
+  background-color: #222222;
+  border-bottom: 1px solid #111;
+  padding: 5px 0;
+}
+header #logo {
+  display: inline-block;
+  max-width: 210px;
+  width: 20%;
+}
+header #logo img {
+  display: block;
+  height: 50px;
+  padding: 5px 0;
+  width: auto;
+}
+header nav {
+  color: #fff;
+  display: inline-block;
+  height: 50px;
+  max-width: calc(100% - 215px);
+  text-align: right;
+  width: 80%;
+}
+
+/*# sourceMappingURL=Header.css.map */
